@@ -93,7 +93,11 @@ Every push triggers the GitHub Actions workflow, which runs the tests in headles
 - Dependency injection with PicoContainer
 - Test data generated at runtime
 
+## Reports Screenshot
+![report.png](target/ExtentReport/Docs/report.png)
+
 ## Author
 
 **Keith Contridas**
 [LinkedIn](https://linkedin.com/in/keith-contridas) | [GitHub](https://github.com/keithbooccontridas-maker)
+
