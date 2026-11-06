@@ -94,7 +94,7 @@ Every push triggers the GitHub Actions workflow, which runs the tests in headles
 - Test data generated at runtime
 
 ## Reports Screenshot
-![report.png](target/ExtentReport/Docs/report.png)
+![report.png](docs/report.png)
 
 ## Author
 
